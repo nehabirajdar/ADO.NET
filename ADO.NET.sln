@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET", "ADO.NET\ADO.NET.csproj", "{8B249C1A-72E0-4E08-BCEC-4573CC414C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentADOConn", "StudentADOConn\StudentADOConn.csproj", "{487B0607-364C-41B5-8DD1-60AB75323D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B249C1A-72E0-4E08-BCEC-4573CC414C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B249C1A-72E0-4E08-BCEC-4573CC414C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B249C1A-72E0-4E08-BCEC-4573CC414C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B249C1A-72E0-4E08-BCEC-4573CC414C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487B0607-364C-41B5-8DD1-60AB75323D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487B0607-364C-41B5-8DD1-60AB75323D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487B0607-364C-41B5-8DD1-60AB75323D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487B0607-364C-41B5-8DD1-60AB75323D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {401DE61F-9EA4-4082-B845-8CBD8AB52A78}
+	EndGlobalSection
+EndGlobal
